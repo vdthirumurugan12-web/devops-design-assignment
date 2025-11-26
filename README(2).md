@@ -110,11 +110,6 @@ Components:
 
 ---
 
-## 6. Submission Contents
-- `README.md` (this file)
-- `diagram.pdf` (architecture diagram)
-- `diagram.drawio` (editable diagram file)
-
 ---
 
 ## Git Commands to create the repo and push files
