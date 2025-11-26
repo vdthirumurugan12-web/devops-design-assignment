@@ -131,12 +131,4 @@ git commit -m "Add DevOps design README and architecture diagram"
 git push origin main
 ```
 
-Replace `YOUR_USERNAME` and `/path/to/` with your actual values.
 
----
-
-If you want, I can:
-- Produce a `diagram.drawio` file (editable XML) and save it to the folder.
-- Create GitHub Actions workflow YAML examples for the pipeline.
-
-I will now create `diagram.drawio` in the folder for you.
